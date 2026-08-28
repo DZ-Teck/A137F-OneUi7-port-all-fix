@@ -1,0 +1,19 @@
+# Configuration locale
+.config
+.config.old
+
+# Dossier de build externe (si tu en as un)
+out/
+
+# Fichiers compilés
+*.o
+*.ko
+*.cmd
+*.tmp
+.tmp_*
+modules.order
+Module.symvers
+
+# Images finales
+arch/arm64/boot/Image
+arch/arm64/boot/Image.gz
