@@ -1,4 +1,9 @@
-# Galaxy A13 4G (MTK) touchGrassKernel
+# Galaxy A13 4G (MTK) touchGrassKernel Fork
+
+WARNING: This is a fork of the TouchGrassKernel of @micr0softstore thank for this kernel !
+
+##The official kernel had KernelSU Next 1.0.9, but that's outdated. So i decided to fork this kernel for add ResukiSU 4.2.0rc1 with driver version 35081. 
+[SEE] in the future, I plan to add SusFS 2.2.0 backported by @Jack1man .I tried to add it, but i have Encountered a problem. View the susfs-rksu branch for more information.
 
 > [!NOTE]
 > Feel free to FORK or create PR.
@@ -10,26 +15,14 @@
 - [Click here](https://github.com/micr0softstore/samsung_kernel_a13ve/blob/enforcing-u8/README)
 
 ## To compile:
-- $ git clone --depth=1 https://github.com/micr0softstore/samsung_kernel_a13ve -b enforcing-u8
-- $ cd samsung_kernel_a13ve
+- $ git clone --depth=1 https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix.git -b enforcing-u8
+- $ cd A137F-OneUi7-port-all-fix
 - $ sudo bash build_kernel.sh
 
 ## Download:
-[LATEST] Release v0.4 Alpha:
-https://drive.google.com/file/d/103S-ehSFzkIRi6Y65SPtOqz14NhJLNpL/view?usp=drivesdk
+[LATEST] Release v0.4 with ResukiSU:
 
-Changelogs:
 
-v0.4
- - upstreamed sdfat to 2.8.1 to fix SDcard on oneui 7, commit by Extreme XT
-
-v0.3
-- turned off kprobes as we had issues with it on 4.x kernel
-- added manual hooks for ksu
-- added erofs
-  
-v0.2:
-- turned on kprobes
 
 ### Features
 - Bootable upto OneUI7
