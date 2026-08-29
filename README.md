@@ -2,8 +2,10 @@
 
 WARNING: This is a fork of the TouchGrassKernel of @micr0softstore thank for this kernel !
 
-## The official kernel had KernelSU Next 1.0.9, but that's outdated. So i decided to fork this kernel for add ResukiSU 4.2.0rc1 with driver version 35081. 
-[SEE] in the future, I plan to add SusFS 2.2.0 backported by @Jack1man .I tried to add it, but i have Encountered a problem. View the susfs-rksu branch for more information.
+## The official kernel had KernelSU Next 1.0.9 but that's outdated.
+So i decided to fork this kernel for add ResukiSU 4.2.0rc1 with driver version 35081. 
+[SEE] in the future, I plan to add SusFS 2.2.0 backported by @Jack1man 
+I tried to add it, but i have Encountered a problem. View the susfs-rksu branch for more information.
 
 > [!NOTE]
 > Feel free to FORK or create PR.
