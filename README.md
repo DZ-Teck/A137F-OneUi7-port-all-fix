@@ -1,7 +1,7 @@
 # Galaxy A13 4G (MTK) touchGrassKernel Fork
 
 > [!NOTE]
-> WARNING: This is a fork of the          > TouchGrassKernel of [@micr0softstore](https://github.com/micr0softstore/samsung_kernel_a13ve) thank for this kernel !
+> WARNING: This is a fork of the TouchGrassKernel of [@micr0softstore](https://github.com/micr0softstore/samsung_kernel_a13ve) thank for this kernel !
 
 ## The official kernel had KernelSU Next 1.0.9 but that's outdated.
 So i decided to fork this kernel for add ResukiSU 4.2.0rc1 with driver version 35081.
