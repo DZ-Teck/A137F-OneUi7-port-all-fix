@@ -14,7 +14,7 @@ I tried to add it, but i have Encountered a problem. View the susfs-rksu branch 
 > Make sure you have build tools/packages installed, else it won't compile properly.
 
 ## Looking for linux readme?
-- [Click here](https://github.com/micr0softstore/samsung_kernel_a13ve/blob/enforcing-u8/README)
+- [Click here](https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix/blob/enforcing-u8/README)
 
 ## To compile:
 - $ git clone --depth=1 https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix.git -b enforcing-u8
