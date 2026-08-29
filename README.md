@@ -20,14 +20,14 @@ WARNING: This is a fork of the TouchGrassKernel of @micr0softstore thank for thi
 - $ sudo bash build_kernel.sh
 
 ## Download:
-- [LATEST] (https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix/releases/tag/v1.0.0) Release v0.4 with ResukiSU:
+- [LATEST](https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix/releases/tag/v1.0.0) latest release of kernel with ResukiSU:
 
 
 
 ### Features
 - Bootable upto OneUI7
 - Dex TouchPad [SEC_TOUCHPAD] (Not yet)
-- ResukiSU
+- ResukiSU 4.2.0rc1 (35081)
 - erofs
 - more in future
 
