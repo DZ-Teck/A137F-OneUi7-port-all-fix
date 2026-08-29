@@ -22,7 +22,7 @@ I tried to add it, but i have Encountered a problem. View the susfs-rksu branch 
 - $ sudo bash build_kernel.sh
 
 ## Download:
-- [LATEST](https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix/releases/tag/v1.0.0) latest release of kernel with ResukiSU:
+- [RELEASE](https://github.com/DZ-Teck/A137F-OneUi7-port-all-fix/releases/tag/v1.0.0) latest release of kernel with ResukiSU:
 
 
 
